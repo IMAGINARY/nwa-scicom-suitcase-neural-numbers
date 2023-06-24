@@ -1,0 +1,13 @@
+{
+  "name": "futurium-suitcase-neural-numbers",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=18.16.0"
+  },
+  "dependencies": {
+    "degit": "^2.8.4"
+  },
+  "scripts": {
+    "build": "rm -rf ./dist && rm -rf ./neural-numbers-mini && degit github:IMAGINARY/neural-numbers-mini#v1.1.0 --force neural-numbers-mini && cp -R ./extras/. ./neural-numbers-mini/. && cd ./neural-numbers-mini && npm install && npm run build && cd .. && cp -r ./neural-numbers-mini/dist ./dist"
+  }
+}
