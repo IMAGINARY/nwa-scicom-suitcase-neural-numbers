@@ -1,6 +1,6 @@
 {
-  "name": "futurium-suitcase-neural-numbers",
-  "version": "1.0.0",
+  "name": "tu-delft-suitcase-neural-numbers",
+  "version": "0.1.0",
   "engines": {
     "node": ">=24.4.1"
   },
