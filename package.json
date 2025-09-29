@@ -2,7 +2,7 @@
   "name": "futurium-suitcase-neural-numbers",
   "version": "1.0.0",
   "engines": {
-    "node": ">=18.16.0"
+    "node": ">=24.4.1"
   },
   "dependencies": {
     "degit": "^2.8.4"
