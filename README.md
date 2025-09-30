@@ -1,6 +1,6 @@
-# tu-delft-suitcase-neural-numbers
+# nwa-scicom-suitcase-neural-numbers
 
-Neural Numbers as a suitcase exhibit for TU Delft.
+Neural Numbers as a suitcase exhibit for the Dutch Research Agenda (NWA).
 
 An installation-specific mod of the 
 [Neural Numbers Mini](https://github.com/IMAGINARY/neural-numbers-mini) exhibit.
@@ -50,6 +50,7 @@ The default value is 60 seconds.  Set to 0 to disable the timeout.
 Adapted by [Eric Londaits](https://github.com/elondaits)
 from the [Neural Numbers](https://github.com/IMAGINARY/neural-numbers)
 exhibit created by [Aaron Montag](https://github.com/montaga) for IMAGINARY gGmbH.
+Based on an exhibit supported by [Futurium](http://futurium.de/).
 
 ## License
 
