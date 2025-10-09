@@ -50,6 +50,10 @@ The default value is 60 seconds.  Set to 0 to disable the timeout.
 Adapted by [Eric Londaits](https://github.com/elondaits)
 from the [Neural Numbers](https://github.com/IMAGINARY/neural-numbers)
 exhibit created by [Aaron Montag](https://github.com/montaga) for IMAGINARY gGmbH.
+
+This adaptation was developed with the support of the TU Delft and the Dutch Research Council 
+(NWO) as project NWA.1397.24.009 within NWA L4 - NWA Wetenschapscommunicatie 2024.
+
 Based on an exhibit supported by [Futurium](http://futurium.de/).
 
 ## License
