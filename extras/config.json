@@ -1,0 +1,40 @@
+{
+  "siteName": "Neural Numbers",
+  "siteDescription": "",
+  "siteURL": "https://imaginary.github.io/nwa-scicom-suitcase-neural-numbers-mini",
+  "basePath": "/",
+  "contactEmail": "info@imaginary.org",
+  "defaultLanguage": "en",
+  "sideBySideTranslation": ["nl", "en"],
+  "languages": {
+    "en": {
+      "name": "English"
+    },
+    "de": {
+      "name": "Deutsch"
+    }
+  },
+  "model": "vendor/neural-numbers/assets/models/my-model.json",
+  "trainingImagePath": "vendor/neural-numbers/assets/mnist/mnist_images.png",
+  "trainingLabelPath": "vendor/neural-numbers/assets/mnist/mnist_labels_uint8",
+  "inputPlaceholder": {
+    "en": "Write a number<br>between 0&nbsp;and&nbsp;9",
+    "de": "Schreib eine Zahl<br>zwischen 0&nbsp;und&nbsp;9",
+    "nl": "Schrijf een cijfer <br>tussen 0&nbsp;en&nbsp;9"
+  },
+  "imageCountLabelText": {
+    "en": "Images used",
+    "de": "Verwendete Bilder",
+    "nl": "Gebruikte afbeeldingen"
+  },
+  "predictedAccuracyLabelText": {
+    "en": "Predicted accuracy",
+    "de": "Vorhergesagte Genauigkeit",
+    "nl": "Voorspelde nauwkeurigheid"
+  },
+  "trainingTitle": {
+    "en": "Train the neural network",
+    "de": "Trainiere das neuronale Netzwerk",
+    "nl": "Train het neurale netwerk"
+  }
+}
